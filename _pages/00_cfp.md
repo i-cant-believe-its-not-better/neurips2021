@@ -50,7 +50,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
   </tr>
   <tr>
 
-   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU (pending)</td>
+   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU </td>
    <td style="text-align:center"><a href="http://eliassi.org/">Tina Eliassi-Rad</a> <br> Northeastern </td>
    <td style="text-align:center"><a href="https://appliedmldays.org/all-time-speakers/nyalleng-moorosi">Nyalleng Moorosi</a> <br> Google AI (pending)</td>
   </tr>
