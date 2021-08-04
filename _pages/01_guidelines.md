@@ -16,13 +16,13 @@ If you think your paper falls within the remit of the workshop but does not clea
 
 #### Formatting instructions
 
-We will follow the same formatting instructions as in the main NeurIPS conference. In short, all submissions must be in PDF format and at most 8 pages long (shorter is fine and even better, we encourage authors to be concise); the appendix can have unlimited length. Submissions will be **double-blind**, so you should submit an anonymous preprint.
+Submissions should be 4 pages long at most (not including references) and submitted via OpenReview platform by September 17th 2021 (see our website for the submission link). The Appendix can be unlimited, but note that reviewers might only read the main text. Accepted authors will be invited to participate in a poster session at the workshop. These submissions are non-archival, however reviewers will nominate exemplar papers for submission in PMLR.
+
+Submissions will be **double-blind**, so you should submit an anonymous preprint.
 
 You must format your submission using the provided [LaTeX style files](https://www.aeoncase.com/link/95bc64dcd6b39aa2c7e55647).
 
-The maximum file size for submissions is 50MB. Submissions that violate the NeurIPS style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.
-
-<!-- Submissions should be 4 pages long at most (not including references) and submitted via OpenReview platform by September 17th 2021 (see our website for the submission link). The Appendix can be unlimited, but note that reviewers might only read the main text. Accepted authors will be invited to participate in a poster session at the workshop. These submissions are non-archival, however reviewers will nominate exemplar papers for submission in PMLR. -->
+The maximum file size for submissions is 50MB. Submissions that violate the provided style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.
 
 #### How to submit
 
