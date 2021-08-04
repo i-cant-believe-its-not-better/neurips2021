@@ -16,7 +16,7 @@ If you think your paper falls within the remit of the workshop but does not clea
 
 #### Formatting instructions
 
-Submissions should be 4 pages long at most (not including references) and submitted via OpenReview platform by September 17th 2021 (see our website for the submission link). The Appendix can be unlimited, but note that reviewers might only read the main text. Accepted authors will be invited to participate in a poster session at the workshop. These submissions are non-archival, however reviewers will nominate exemplar papers for submission in PMLR.
+Submissions should be 4 pages long at most (not including references) and submitted via OpenReview platform by September 17th 2021. The Appendix can be unlimited, but note that reviewers might only read the main text. Accepted authors will be invited to participate in a poster session at the workshop. These submissions are non-archival, however reviewers will nominate exemplar papers for submission in PMLR.
 
 Submissions will be **double-blind**, so you should submit an anonymous preprint.
 
