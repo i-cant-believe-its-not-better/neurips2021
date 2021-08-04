@@ -28,7 +28,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
 
 
 
-### Confirmed Speakers
+### Speakers
 
 <table style="width:100%;border-bottom: 1px solid black;">
   <tr>
@@ -50,9 +50,9 @@ We invite submissions from these sub-fields among others in the broader ML commu
   </tr>
   <tr>
 
-   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU</td>
+   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU (pending)</td>
    <td style="text-align:center"><a href="http://eliassi.org/">Tina Eliassi-Rad</a> <br> Northeastern </td>
-   <td style="text-align:center"><a href="https://appliedmldays.org/all-time-speakers/nyalleng-moorosi">Nyalleng Moorosi</a> <br> Google AI</td>
+   <td style="text-align:center"><a href="https://appliedmldays.org/all-time-speakers/nyalleng-moorosi">Nyalleng Moorosi</a> <br> Google AI (pending)</td>
   </tr>
 </table>
 
@@ -76,8 +76,8 @@ Check out our [submission guidelines](https://i-cant-believe-its-not-better.gith
 
 ### Advisory Board
 
-* [Bob Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/), University of Tübingen
 * [Tamara Broderick](https://people.csail.mit.edu/tbroderick/), Massachusetts Institute of Technology
+* [Robert Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/), University of Tübingen
 * [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam
 
 ### Senior Advisory Board
