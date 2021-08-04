@@ -91,6 +91,10 @@ Check out our [submission guidelines](https://i-cant-believe-its-not-better.gith
 
 For any question or suggestion, please contact us at: <cant.believe.it.is.not.better@gmail.com>
 
+### About
+
+This workshop builds upon the [NeurIPS 2020 “I Can’t Believe It’s Not Better!” (ICBINB)](https://i-cant-believe-its-not-better.github.io/neurips2020/) workshop, which was motivated by the same principles but focused on unexpected negative results in probabilistic ML. In this call, we further unpack the concept of beauty that emerged in the discussions from the 2020 workshop. We also expand the scope to a broader ML community.
+
 ### References
 
 [^1]: Kuhn, Thomas S. “The Structure of Scientific Revolutions.” (1962)
