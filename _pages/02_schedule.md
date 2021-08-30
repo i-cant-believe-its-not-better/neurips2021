@@ -15,7 +15,7 @@ Saturday, December 12th
 
 <!--This workshop proposal is unique in its emphasis on the gap between theory and empirical results, and its goal to share methodological best practices in a community-building setting. Its focus on the probabilistic ML community will gather researchers that speak the same language and are able to combine knowledge in a modular way. This will allow for productive methodological feedback, targeted discussions, and constructive critiques through, e.g., poster and breakout sessions.-->
 
-Coming soon.
+This year’s schedule is under preparation, but feel free to check out [last year’s schedule](https://i-cant-believe-its-not-better.github.io/neurips2020/schedule/) to get a general idea about what it might look like.
 
 <!--
 You can find the schedule below. All times are **Eastern Standard Time (EST)**.

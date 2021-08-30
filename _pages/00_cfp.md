@@ -62,7 +62,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
 We accept submissions through our [OpenReview workshop site](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/ICBINB).
 
 
-Main deadline: **September 17th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by September 31st.**
+Main deadline: **September 17th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by October 15th.**
 
 Check out our [submission guidelines](https://i-cant-believe-its-not-better.github.io/neurips2021/guidelines/) for more details.
 
