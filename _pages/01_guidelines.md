@@ -28,7 +28,8 @@ The maximum file size for submissions is 50MB. Submissions that violate the prov
 
 Submissions to the workshop will be handled through our [OpenReview site](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/ICBINB).
 
-**Main deadline: **September 17th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by October 15th.**
+
+**Main deadline**: ~~September 17th~~ **September 21th 23:59 Anywhere on Earth**. Accept/reject notification will be sent out by ~~October 15th~~ October 17th.
 
 <!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
 
