@@ -32,7 +32,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
 * **Bidding Period**: 22-25th September
 * **Reviewing Process**: 26th September - October 10th
 * **Authors Notification**: October 17th
-* **Mandatory SlidesLive upload for speaker videos**:  November 01, 2021 AOE
+* **Mandatory SlidesLive upload for speaker videos**:  November 1st, 2021 AOE
 * **Workshop Day**: Monday December 13th, 2021, virtually
 
 
