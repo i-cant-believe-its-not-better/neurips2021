@@ -1,56 +1,57 @@
 ---
 layout: page
 permalink: /guidelines/
-title: Guidelines
+title: Reviewer Guidelines
 description: ICBINB@NeurIPS 2021
 ---
 
-We welcome the submission of research papers and abstracts from the broader ML community describing original work that has not been submitted or currently under review, has not been previously published nor accepted for publication elsewhere, in any other journal or conference. In particular, this work may touch on one or more of the following aspects:
-* Unexpected negative results or anomalies: ideas that do not provide expected results, yet authors are able to explain why, bringing an interesting closed-form piece of knowledge to the community.
-* Papers that are “stuck” yet contain beautiful/elegant ideas. Authors should argue why the idea is of interest, rigorously describe the analysis, and include a self-critique.
-* Criticism of and alternatives to default or standard practices (e.g., current evaluation metrics).
-* Meta-research on the role of “beauty” or negative results in broader ML research (including statistics, data science, AI, and application areas).
+# Important Dates
+- September 26, 2021: Reviewing period begins
+- October 10, 2021: Reviewing period ends
 
+# General Guidelines
 
-If you think your paper falls within the remit of the workshop but does not clearly fit one of these tracks, please contact the organizers at <cant.believe.it.is.not.better@gmail.com>
+One of the main goals of the workshop is to provide an *inclusive venue* for researchers to present their work and get feedback from other researchers in the field. The spirit of the workshop is to evaluate works based on (1) their topical fit with the workshop, (2) the rigor/quality of the research process as opposed to the final performance of the presented approach, and (3) their likelihood of getting constructive feedback that helps the authors.
 
-#### Formatting instructions
+We have asked authors to categorise their paper as belonging to any of four categories:
 
-Submissions should be 4 pages long at most (not including references) and submitted via OpenReview platform by September 17th 2021. The Appendix can be unlimited, but note that reviewers might only read the main text. Accepted authors will be invited to participate in a poster session at the workshop. These submissions are non-archival, however reviewers will nominate exemplar papers for submission in PMLR.
+1. **Unexpected negative results or anomalies**: ideas that do not provide expected results, yet authors are able to explain why, bringing an interesting closed-form piece of knowledge to the community
 
-Submissions will be **double-blind**, so you should submit an anonymous preprint.
+2. **Papers that are “stuck” yet contain beautiful/elegant ideas**: Authors should argue why the idea is of interest, rigorously describe the analysis, and include a self-critique
 
-You must format your submission using the provided [LaTeX style files](https://www.aeoncase.com/link/95bc64dcd6b39aa2c7e55647).
+3. **Criticisms of and alternatives to current evaluation metrics and default practices**
 
-The maximum file size for submissions is 50MB. Submissions that violate the provided style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.
+4. **Meta-research on the role of “beauty” or negative results in ML research**
 
-#### How to submit
+# Reviewing criteria:
 
-Submissions to the workshop will be handled through our [OpenReview site](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/ICBINB).
+1. **Summary and contributions**: Briefly summarize the paper and its contributions.
 
+2. **Scope and relevance**:
+  - *Fitness*: Do the main ideas of the paper broadly fall under the scope of the workshop (i.e., one of the 4 categories stated above)?
+  - *Benefits of inclusion in the workshop*: Will the paper likely benefit from being presented at the workshop, and will the workshop benefit from reading this paper? For papers that contain negative results or criticism of default practices, how surprising do you think the audience of the workshop will find this result? For papers that are “stuck”, does it clearly explain how it is “stuck”? Is it likely that one or more expert attendees can provide tips or feedback to the authors that will get the paper to “work”?
 
-**Main deadline**: ~~September 17th~~ **September 21th 23:59 Anywhere on Earth**. Accept/reject notification will be sent out by ~~October 15th~~ October 17th.
+3. **Quality, clarity, and rigor**:
+  - *Clarity and reproducibility*: Is the paper well written? Does it describe the main ideas clearly? Are there enough details to reproduce the major results of this work?
+  - *Quality/Rigor*: Is the empirical methodology correct? Are the claims in the paper convincing? Is the analysis thorough (e.g., via ablations of the method)? Remember that this workshop is not about “benchmark chasing” and we actively encourage ideas that don’t work! However, we expect even negative results to be supported with solid scientific argumentation and/or experimentation.
 
-<!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
+4. **Additional feedback:** Constructive comments/suggestions for improvement and questions for the authors.
 
-<!-- Camera ready versions will be submitted as markdown files through our [GitHub repository page](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/ICBINB) for publication online. -->
+5. **Overall score**:
+  - *Strong accept* [oral presentation]: very likely to benefit from being presented at the workshop, to benefit the community, and to un-stuck/open new interesting research directions
+  - *Accept* [spotlight]: likely to benefit from being presented AND likely to benefit the community
+  - *Weak accept* [poster]: likely to benefit from being presented OR likely to benefit the community
+  - *Weak reject*: suffers from serious clarity issues, unlikely to benefit from being presented AND unlikely to benefit the community
+  - *Strong reject*: clearly out of scope or incorrect
 
-#### Reviewing criteria
+6. **Confidence**:
+  - Absolutely certain about my score
+  - Confident but not absolutely certain
+  - Fairly confident
+  - Willing to defend the paper, but likely that the reviewer did not understand central parts
+  - Educated guess
 
-Reviewing and awards: Reviewers will not be asked to assess “beauty”, but rather to evaluate whether authors have identified a gap between intrinsic and extrinsic value, broadly speaking, and have clearly explained their ideas. Reviewers will reward novelty and elegance, thorough understanding, transparency, and reproducibility, rather than high empirical performance. Reviewers will also nominate papers for two awards: the “Entropic Award”, for most surprising gap or negative result, and the “Didactic Award”, for most well-explained and pedagogical paper. Reviewers will also nominate papers with exemplary scientific rigor and high-quality research process for publication in PMLR.
-
-<!--
-We plan to create an open-minded and diverse space for promising works regardless of the final outcome by providing reviewers with concise guidelines that reward thorough understanding, transparency, and reproducibility rather than high performance. **Reviewers will nominate papers with exemplary scientific rigor for publication in PMLR**. Papers should clearly convey the interest of the unexpected behavior and demonstrate a high-quality research process.-->
-
-<!-- We will be selecting for submissions that provide interesting insights on unexpected results. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect, and to abide by our [code of conduct](https://i-cant-believe-its-not-better.github.io/neurips2020/coc). While there is no page limit, we encourage authors to be concise. -->
-We will be selecting for submissions that provide interesting insights on unexpected results. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect.
-<!-- While there is no page limit, we encourage authors to be concise. -->
-
-Submissions will be evaluated on the following criteria:
-
-<!-- - Adherence to our [code of conduct](https://i-cant-believe-its-not-better.github.io/neurips2020/coc) -->
-- Clarity of writing
-- Rigor and transparency in the scientific process
-- Vulnerability and honesty in discussion, particularly if the submission is by the original author
-- Quality of discussion of limitations
-- Significance of new insights
+7. **Expertise**:
+  - I have published in this field
+  - I am familiar with this field
+  - This field is different than mine
