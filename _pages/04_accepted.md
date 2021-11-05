@@ -23,7 +23,7 @@ description: ICBINB@NeurIPS 2021
 
 * (Spotlight \#3): Paulo Pirozelli, João F. N. B. Cortese. [The Beauty Everywhere: How Aesthetic Criteria Contribute to the Development of AI]
 
-* (Spotlight \#4): Lica Zappella. [Challenges of Adversarial Image Augmentations]
+* (Spotlight \#4): Arno Blaas, Xavier Suau, Jason Ramapuram, Nicholas Apostoloff, Luca Zappella. [Challenges of Adversarial Image Augmentations]
 
 * (Spotlight \#5): Ke Alexander Wang, Danielle C. Maddix, Bernie Wang. [GOPHER: Categorical probabilistic forecasting withgraph structure via local continuous-time dynamics]
 
@@ -76,7 +76,7 @@ description: ICBINB@NeurIPS 2021
 
 * (Poster \#18):  Imant Daunhawer, Thomas M. Sutter, Kieran Chin-Cheong, Emanuele Palumbo, Julia E Vogt [On the Limitations of Multimodal VAEs]
 
-* (Poster \#19): Lica Zappella. [Challenges of Adversarial Image Augmentations]
+* (Poster \#19): Arno Blaas, Xavier Suau, Jason Ramapuram, Nicholas Apostoloff, Luca Zappella. [Challenges of Adversarial Image Augmentations]
 
 * (Poster \#20): Paulo Pirozelli, João F. N. B. Cortese. [The Beauty Everywhere: How Aesthetic Criteria Contribute to the Development of AI]
 
