@@ -26,7 +26,7 @@ Times are listed in Eastern Standard Time
 | Invited Talk - [Tina Eliassi-Rad](http://eliassi.org/) |14:45-15:15 |
 | Contributed Talk - Chelsea Murray |14:15-15:30 |
 | Invited Talk - [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/)         | 15:30-16:00 |
-| Contributed Talk - Benjamin Bloem-Reddy(https://www.stat.ubc.ca/~benbr/))      | 16:00-16:15 |
+| Contributed Talk - [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/))      | 16:00-16:15 |
 | Coffee Break                     | 16:15-16:30 |
 | Invited Talk - [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/)    | 16:30-17:00 |
 | Awards Session | 17:00-17:10 |
