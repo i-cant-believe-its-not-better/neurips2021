@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: ICBINB@NeurIPS 2021
+description: 
 ---
 
 Monday, December 13
