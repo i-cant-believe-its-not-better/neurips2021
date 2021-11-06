@@ -2,10 +2,10 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: 
+description: Monday, December 13
 ---
 
-Monday, December 13
+
 
 Times are listed in Eastern Standard Time
 
