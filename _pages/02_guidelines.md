@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /guidelines/
-title: Author Guidelines
+title: Guidelines
 description: I
 ---
 
