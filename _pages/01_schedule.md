@@ -6,6 +6,7 @@ description:
 ---
 
 Monday, December 13
+
 Times are listed in Eastern Standard Time
 
 | Opening Remarks                    | 7:50-8:00 |
