@@ -1,11 +1,8 @@
 ---
 layout: page
-permalink: /accepted_papers/
-title: PC
-description: ICBINB@NeurIPS 2021
+permalink: /program_committee/
+title: Program Committee
 ---
-
-### Program Committee
 
 We thank all reviewers, this workshop would not be possible without you.
 
