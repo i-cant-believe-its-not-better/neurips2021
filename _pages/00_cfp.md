@@ -70,7 +70,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
 
   </tr>
   <tr>
-  <td style="text-align:center"><a href="http://elarosca.net/">Michaela Rosca</a> <br>DeepMind</td>
+  <td style="text-align:center"><a href="http://elarosca.net/">Mihaela Rosca</a> <br>DeepMind</td>
    <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU </td>
    <td style="text-align:center"><a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/">Robert Williamson</a> <br> Tübingen </td>
 
