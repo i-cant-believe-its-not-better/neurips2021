@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /guidelines/
-title: Guidelines
-description: ICBINB@NeurIPS 2021
+title: Author Guidelines
+description: I
 ---
 
 We welcome the submission of research papers and abstracts from the broader ML community describing original work that has not been submitted or currently under review, has not been previously published nor accepted for publication elsewhere, in any other journal or conference. In particular, this work may touch on one or more of the following aspects:
