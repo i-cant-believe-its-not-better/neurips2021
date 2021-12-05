@@ -14,7 +14,7 @@ Times are listed in Eastern Standard Time
 | Contributed Talk - Wouter Kool     | 08:30-08:45 |
 | Panel                              | 08:45-09:45 |
 | Coffee-break                       | 09:45-10:00 |
-| Invited Talk - [Michaela Rosca](http://elarosca.net/)    | 10:00-10:30 |
+| Invited Talk - [Mihaela Rosca](http://elarosca.net/)    | 10:00-10:30 |
 | Contributed Talk - Francesco Negri    | 10:30-10:45 |
 
 | Invited Talk - [Nyalleng Moorosi](https://twitter.com/nunuska?lang=en)                      | 10:45-11:15 | 
