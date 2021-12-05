@@ -4,6 +4,9 @@ permalink: /accepted_papers/
 title: Accepted Papers
 description: 
 ---
+
+#### INFO: All accepted papers will be made available right after the deadline for camera ready version, which is on Dec 8th, 2021.
+
 ### Contributed talks (15min each)
 
 * (Talk \#1): Benjamin Bloem-Reddy. [Beauty in Machine Learning: Purpose and Enlightenment]
