@@ -29,6 +29,6 @@ Times are listed in Eastern Standard Time
 | Invited Talk - [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/)         | 15:30-16:00 |
 | Contributed Talk - [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/)      | 16:00-16:15 |
 | Coffee Break                     | 16:15-16:30 |
-| Invited Talk - [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/)    | 16:30-17:00 |
+| Invited Talk - [Daniel J. McDonald](https://dajmcdon.github.io/)    | 16:30-17:00 |
 | Awards Session | 17:00-17:10 |
 | Town Hall | 17:10-17:40 |
