@@ -1,0 +1,34 @@
+
+### Contributed talks (15min each)
+
+* (Talk \#1): Benjamin Bloem-Reddy. [Beauty in Machine Learning: Purpose and Enlightenment]
+
+* (Talk \#2): David Kappel, Franscesco Negri, Christian Tetzlaff. [Continual Learning with Memory Cascades]
+
+* (Talk \#3): Chelsea Murray, James Urquhart Allingham, Javier Antoran, José Miguel Hernández-Lobato. [Addressing Bias in Active Learning with Depth Uncertainty Networks... or Not]
+
+* (Talk \#4): Wouter Kool, Chris J. Maddison, Andriy Mnih. [Unbiased Gradient Estimation with Balanced Assignments for Mixtures of Experts]
+
+
+### Spotlights (2:30min each)
+
+* (Spotlight \#1):  Imant Daunhawer, Thomas M. Sutter, Kieran Chin-Cheong, Emanuele Palumbo, Julia E Vogt. [On the Limitations of Multimodal VAEs]
+
+* (Spotlight \#2): Anthony L. Caterini, Gabriel Loaiza-Ganem. [Entropic Issues in Likelihood-Based OOD Detection]
+
+* (Spotlight \#3): Paulo Pirozelli, João F. N. B. Cortese. [The Beauty Everywhere: How Aesthetic Criteria Contribute to the Development of AI]
+
+* (Spotlight \#4): Arno Blaas, Xavier Suau, Jason Ramapuram, Nicholas Apostoloff, Luca Zappella. [Challenges of Adversarial Image Augmentations]
+
+* (Spotlight \#5): Ke Alexander Wang, Danielle C. Maddix, Bernie Wang. [GOPHER: Categorical probabilistic forecasting withgraph structure via local continuous-time dynamics]
+
+* (Spotlight \#6): Tristan Cinquin, Alexander Immer, Max Horn, Vincent Fortuin. [Pathologies in Priors and Inference for Bayesian Transformers]
+
+* (Spotlight \#7): Soufiane Hayou, Arnaud Doucet, Judith Rousseau. [The Curse of Depth in Kernel Regime]
+
+* (Spotlight \#8): Cian Eastwood, Ian Mason, Chris Williams. [Unit-level surprise in neural networks]
+
+* (Spotlight \#9): Amélie Chatelain, Amine Djeghri, Daniel Hesslow, Julien Launay, Iacopo Poli. [Is the Number of Trainable Parameters All That Actually Matters?]
+
+* (Spotlight \#10):  Nitya Kasturi, Igor Markov. [Text Ranking and Classification using Data Compression]
+
