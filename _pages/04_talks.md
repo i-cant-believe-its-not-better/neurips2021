@@ -11,7 +11,7 @@ description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should
 
 **Title**: Better
 
-**Abstract**: *Coming soon.*
+**Abstract**: *I will discuss what is behind the notion of “better” as used in ML, and explore the problems of leaderboards and the notion that what our goal should be is to produce better algorithms. I will argue that we need a richer notion of our collective goal, one which might be well captured by the “rhetoric of machine learning”. I end with a meditation not the place and role of beauty in our research endeavours.*
 
 #### [Mihaela Rosca](http://elarosca.net/) (10:00-10:30 EST)
 
