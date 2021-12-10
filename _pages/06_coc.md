@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /conduct/
-title: Code of Conduct
-description: 
+title: CoC
+description: Code of Conduct
 ---
 
 The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the goals of “I Can’t Believe it’s Not Better!” (ICBINB) activities; this requires a community and an environment that recognizes and respects the inherent worth of every person. The purpose of this Code of Conduct (CoC) is to outline expected standards of behaviour during ICBINB activities.

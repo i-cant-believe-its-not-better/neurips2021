@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /accepted_papers/
-title: Accepted
-description: Accepted Papers
+title: Accepted Papers
+description:
 ---
 
 **INFO**: Posters in gathertown will follow the numbering below.

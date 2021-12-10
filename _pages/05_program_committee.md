@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /program_committee/
-title: Program Committee
+title: PC
+description: Program Committee
 ---
 
 We thank all reviewers, this workshop would not be possible without you.
