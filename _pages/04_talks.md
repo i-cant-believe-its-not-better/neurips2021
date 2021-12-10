@@ -29,7 +29,8 @@ description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should
 
 **Title**: Metareasoning is important but intractable
 
-**Abstract**: *Coming soon*.
+**Abstract**: *One of the challenges that human minds face is a limit on the computational resources we can use — our brains. That means that one of the signatures of human intelligence is the ability to adaptively allocate our computational resources where they have the best effect, doing things like reusing partial solutions to past problems. Research in artificial intelligence has provided a framework for capturing this capacity, called rational metareasoning. However, even in the simplest cases metareasoning is extremely computationally expensive. We can make some progress by removing uncertainty about the consequences of executing computations, but it still remains a difficult problem. I guess I can believe it’s not better, but I wish it were better as I think it’s the key to understanding human intelligence and something that is going to become increasingly important for machines.*
+
 
 #### [Tina Eliassi-Rad](http://eliassi.org/) (14:45-15:15 EST)
 
