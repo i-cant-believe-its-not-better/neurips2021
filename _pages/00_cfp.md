@@ -80,7 +80,6 @@ We invite submissions from these sub-fields among others in the broader ML commu
 
 ### Panelists
 
-
 <table style="width:100%;border-bottom: 1px solid black;">
   <center>
   <tr>
@@ -115,6 +114,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
   </tr>
 </table>
 
+The panel will be moderated by [Robert C. Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/) and will take place between **8:45-9:45 EST**.
 
 ### How do I submit?
 
