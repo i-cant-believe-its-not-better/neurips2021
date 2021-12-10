@@ -23,7 +23,7 @@ Times are listed in Eastern Standard Time
 | Spotlight Talks 2 | 12:00-12:15 |
 | Lunch Break | 12:15-13:00 |
 | Poster Session | 13:00-14:45 |
-| Breakout Discussion | 14:00-14:45 |
+| Breakout Discussion | 14:15-14:45 |
 | Invited Talk - [Tina Eliassi-Rad](http://eliassi.org/): *The Why, How, and When of Representations for Complex Systems* |14:45-15:15 |
 | Contributed Talk - Chelsea Murray: *Addressing Bias in Active Learning with Depth Uncertainty Networks... or Not* |15:15-15:30 |
 | Invited Talk - [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/): *TBD*         | 15:30-16:00 |
