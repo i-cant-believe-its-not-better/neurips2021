@@ -1,9 +1,9 @@
-#---
-#layout: page
-#permalink: /talks/
-#title: Talks
-#description:
-#---
+---
+layout: page
+permalink: /talks/
+title: Talks
+description:
+---
 
 ## Invited talks
 

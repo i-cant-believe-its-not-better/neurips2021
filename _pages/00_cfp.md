@@ -120,5 +120,5 @@ This workshop builds upon the [NeurIPS 2020 “I Can’t Believe It’s Not Bett
 
 [^1]: Kuhn, Thomas S. “The Structure of Scientific Revolutions.” (1962)
 [^2]: Dirac PAM. The Evolution of the Physicist’s Picture of Nature. Sci Am. 1963;208: 45.
-[^3]: LeCun and Hinton mention how their papers (and their colleagues’) were routinely rejected from being published based on their subject: https://youtu.be/vShMxxqtDDs?t=6m59s
+[^3]: LeCun and Hinton mention how their papers (and their colleagues’) were routinely rejected from being published based on their subject: [https://youtu.be/vShMxxqtDDs?t=6m59s](https://youtu.be/vShMxxqtDDs?t=6m59s)
 [^4]: Engler, Gideon. "Aesthetics in science and in art." The British Journal of Aesthetics 30 (1990): 24-34.
