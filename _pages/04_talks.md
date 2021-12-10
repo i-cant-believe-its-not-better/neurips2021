@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description:
+description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should* have worked
 ---
 
 ### Invited Talks

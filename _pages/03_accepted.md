@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /accepted_papers/
-title: Accepted Papers
-description:
+permalink: /accepted/
+title: Accepted
+description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should* have worked
 ---
 
 **INFO**: Posters in gathertown will follow the numbering below.

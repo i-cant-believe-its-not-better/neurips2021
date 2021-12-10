@@ -2,10 +2,10 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Monday, December 13
+description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should* have worked
 ---
 
-
+### Date: Monday, December 13th
 
 Times are listed in Eastern Standard Time
 
