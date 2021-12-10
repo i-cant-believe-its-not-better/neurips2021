@@ -71,12 +71,50 @@ We invite submissions from these sub-fields among others in the broader ML commu
   </tr>
   <tr>
   <td style="text-align:center"><a href="http://elarosca.net/">Mihaela Rosca</a> <br>DeepMind</td>
-   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Daniel McDonald</a> <br> British Columbia </td>
+   <td style="text-align:center"><a href="https://dajmcdon.github.io/">Daniel McDonald</a> <br> British Columbia </td>
    <td style="text-align:center"><a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/">Robert Williamson</a> <br> Tübingen </td>
 
 
   </tr>
 </table>
+
+### Panelists
+
+
+<table style="width:100%;border-bottom: 1px solid black;">
+  <center>
+  <tr>
+    <td style="text-align:center"><img src="https://emtiyaz.github.io/emti_2021.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://i2.wp.com/kasirzadeh.org/wp-content/uploads/2021/11/FullSizeRender.jpg?resize=300%2C252" height="175"></td>
+    <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/867463880582340608/b2CozYM-_400x400.jpg" height="175"></td>
+
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="https://emtiyaz.github.io/">Emtiyaz Khan</a> <br> RIKEN </td>
+   <td style="text-align:center"><a href="https://kasirzadeh.org/">Atoosa Kasirzadeh</a> <br> DeepMind</td>
+   <td style="text-align:center"><a href="https://vivo.brown.edu/display/suresh">Suresh Venkatasubramanian</a> <br> Brown </td>
+
+
+  </tr>
+  </center>
+  </table>
+
+  <table style="width:100%;border-bottom: 1px solid black;">
+  <tr>
+  <td style="text-align:center"><img src="https://annargrs.github.io/assets/images/aro.jpg" height="175"></td>
+  <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/05/javier.png" height="175"></td>
+
+
+
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="https://annargrs.github.io/">Anna Rogers</a> <br>Copenhagen</td>
+   <td style="text-align:center"><a href="https://javiergonzalezh.github.io/">Javier Gonzalez</a> <br> MSR </td>
+
+
+  </tr>
+</table>
+
 
 ### How do I submit?
 
