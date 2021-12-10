@@ -1,9 +1,9 @@
----
-layout: page
-permalink: /accepted_papers/
-title: Accepted
-description:
----
+#---
+#layout: page
+#permalink: /accepted_papers/
+#title: Talks
+#description:
+#---
 
 **INFO**: Posters in gathertown will follow the numbering below.
 
