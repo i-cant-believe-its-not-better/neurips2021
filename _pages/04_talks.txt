@@ -1,72 +1,83 @@
 #---
 #layout: page
-#permalink: /accepted_papers/
+#permalink: /talks/
 #title: Talks
 #description:
 #---
 
-**INFO**: Posters in gathertown will follow the numbering below.
+## Invited talks
 
-* (Poster \#01): Ali Borji. [Shape Defense](https://openreview.net/forum?id=wokK3eIjOB_)
+### [Robert C. Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/) (8:00-8:30 EST)
 
-* (Poster \#03): Tatiana Shavrina, Valentin Malykh. [How not to Lie with a Benchmark: Rearranging NLP Leaderboards](https://openreview.net/forum?id=AiU1SoiaeMX)
+**Title**: Better
 
-* (Poster \#05): Soufiane Hayou, Arnaud Doucet, Judith Rousseau. [The Curse of Depth in Kernel Regime](https://openreview.net/forum?id=foFLxO0Yrhx)
+**Abstract**: Coming soon.
 
-* (Poster \#06): Tristan Cinquin, Alexander Immer, Max Horn, Vincent Fortuin. [Pathologies in Priors and Inference for Bayesian Transformers](https://openreview.net/forum?id=Gv41ucDhhlY)
+### [Mihaela Rosca](http://elarosca.net/) (10:00-10:30 EST)
 
-* (Poster \#07): Amélie Chatelain, Amine Djeghri, Daniel Hesslow, Julien Launay, Iacopo Poli. [Is the Number of Trainable Parameters All That Actually Matters?](https://openreview.net/forum?id=JCzF3p8-47S)
+**Title**: A story of distributional learning with games
 
-* (Poster \#08): Iryna Korshunova, Minqi Jiang, Jack Parker-Holder, Tim Rocktäschel, Edward Grefenstette. [Return Dispersion as an Estimator of Learning Potential for Prioritized Level Replay](https://openreview.net/forum?id=1-j1aJfCKa9)
+**Abstract**: Learning implicit generative models through a two-player game as done by Generative Adversarial Networks (GANs) has led to many empirical and theoretical breakthroughs. In this talk, we cover two arcs of the GAN story: the distributional view of GANs, and the games view of GANs, from their foundational principles to their research questions. We then build the case for a unified view of GANs, combining the distributional and games views, and assess its own principles and research questions. We conclude by arguing that while the path towards a unified view is challenging, it is worth pursuing as it could lead to the next important steps in the GAN story.
 
-* (Poster \#09): Dyah Adila, Dongyeop Kang. [Understanding Out-of-distribution: A Perspective of Data Dynamics](https://openreview.net/forum?id=c8OLtQrZObk)
+### [Nyalleng Moorosi](https://twitter.com/nunuska?lang=en) (10:45-11:15 EST)
 
-* (Poster \#10): David R. Burt, Artem Artemev, Mark van der Wilk. [Barely Biased Learning for Gaussian Process Regression](https://openreview.net/forum?id=nPtmUTt8iWl)
+**Title**: TBD
 
-* (Poster \#11): Guoxuan Xia, Sangwon Ha, Tiago Azevedo, Partha Maji. [An Underexplored Dilemma between Confidence and Calibration in Quantized Neural Networks](https://openreview.net/forum?id=_5d0_qtXt5d)
+**Abstract**: Coming soon.
 
-* (Poster \#12): Wouter Kool, Chris J. Maddison, Andriy Mnih. [Unbiased Gradient Estimation with Balanced Assignments for Mixtures of Experts](https://openreview.net/forum?id=Hvfva7l1tcj)
+### [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) (11:30-12:00 EST)
 
-* (Poster \#13): David Kappel, Franscesco Negri, Christian Tetzlaff. [Continual Learning with Memory Cascades](https://openreview.net/forum?id=E1xIZf0E7qr)
+**Title**: Metareasoning is important but intractable
 
-* (Poster \#14):  Nitya Kasturi, Igor Markov. [Text Ranking and Classification using Data Compression](https://openreview.net/forum?id=mCyM2CWFZX5)
+**Abstract**: Coming soon.
 
-* (Poster \#15): Sandhya Prabhakaran. [A multivariate extension to the Exponentially-modified Gaussian distribution](https://openreview.net/forum?id=zjfH2znOLVk)
+### [Tina Eliassi-Rad](http://eliassi.org/) (14:45-15:15 EST)
 
-* (Poster \#16): Mike Van Ness, Madeleine Udell. [CDF Normalization for Controlling the Distribution of Hidden Layer Activations](https://openreview.net/forum?id=ux6_Nstizv)
+**Title**: The Why, How, and When of Representations for Complex Systems
 
-* (Poster \#17): Chelsea Murray, James Urquhart Allingham, Javier Antoran, José Miguel Hernández-Lobato. [Addressing Bias in Active Learning with Depth Uncertainty Networks... or Not](https://openreview.net/forum?id=gVi-oIwRIks)
+**Abstract**: The theme of this year's Nobel Prize in Physics was the study of complex systems. At the most basic level, complex systems consist of units and their interactions. In this talk, I will describe each step of a data analysis pipeline suitable for the study of complex systems: from the system dependencies that can manifest themselves in different flavors (temporal, subset, and spatial) to the common mathematical representations (such as graphs, simplicial complexes, and hypergraphs), their underlying assumptions, and the dependencies they encode. I will discuss the mathematical relationships between representations and explain how information can be lost (or imputed) when we convert data from one representation to another. I will use examples to highlight the importance of dependencies and careful choice of representations and algorithms when studying complex systems. The main message of the talk is that there is no perfect way to analyze a complex system, and that modeling decisions made when examining a data set from one system are not necessarily transferable to another system, or even to another data set from the same system. Yet, I see many studies apply certain pipelines for seemingly no other reason than because they are common in a particular field. Instead, I recommend evaluating and studying each new complex system and dataset individually and questioning each assumption and modeling decision. This talk is based on the following paper: [Leo Torres, Ann Sizemore Blevins, Danielle S. Bassett, Tina Eliassi-Rad: The Why, How, and When of Representations for Complex Systems. SIAM Review 63(3): 435-485 (2021).](https://doi.org/10.1137/20M1355896)
 
-* (Poster \#18): Yuhui Zhang, Hao Ding, Zeren Shui, Yifei Ma, James Zou, Anoop Deoras, Hao Wang. [Language Models as Recommender Systems: Evaluations and Limitations](https://openreview.net/forum?id=hFx3fY7-m9b)
+### [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/) (15:30-16:00 EST)
 
-* (Poster \#19): Cian Eastwood, Ian Mason, Chris Williams. [Unit-level surprise in neural networks](https://openreview.net/forum?id=N5lxfjtUPOS)
+**Title**: TBD
 
-* (Poster \#20): Ke Alexander Wang, Danielle C. Maddix, Bernie Wang. [GOPHER: Categorical probabilistic forecasting with graph structure via local continuous-time dynamics](https://openreview.net/forum?id=v2DmCzi1gfh)
+**Abstract**: Coming soon.
 
-* (Poster \#21): Tiffany Joyce Vlaar. [Examining neural network behavior at the classification boundary](https://openreview.net/forum?id=FBBWy2Sjwg)
 
-* (Poster \#22): Arno Blaas, Xavier Suau, Jason Ramapuram, Nicholas Apostoloff, Luca Zappella. [Challenges of Adversarial Image Augmentations](https://openreview.net/forum?id=ZulCFqmwsF2)
+### [Daniel J. McDonald](https://dajmcdon.github.io/) (16:30-17:00 EST)
 
-* (Poster \#23): Rainer Kelz, Gerhard Widmer. [Nonlinear Denoising, Linear Demixing](https://openreview.net/forum?id=CnsnlBlkCXx)
+**Title**: Your model is beautiful, but does it predict?
 
-* (Poster \#24): Bhavya Vasudeva, Puneesh Deora, Saumik Bhattacharya, Umapada Pal, Sukalpa Chanda. [GradML: A Gradient-based Loss for Deep Metric Learning](https://openreview.net/forum?id=y_vC5Cdu_z)
+**Abstract**: Models that are capable of accurate statistical prediction may be horrible at causal, counterfactual prediction. However, it has long been understood that the reverse is not true. A model that gets the causal structure right, and can make accurate counterfactual predictions, should a fortiori be capable of accurate statistical prediction as well. In this talk, we exhibit some simple statistical techniques — using simulation to assess estimation methods; using randomization to gauge how well a model can appear to fit nonsense data; comparing predictive accuracy to simple baselines — that should be prerequisites to confidently proclaiming a model’s utility for structural understanding. These techniques are not recondite points of mathematical theory, and involve no controversial questions in the foundations of statistics. Rather, they are readily explained notions, accepted on pretty much all sides, whose force is easily grasped once they are presented. We illustrate this point mainly within the realm of macroeconomics, where the favourite models of the last 40 years fail all of these tests, raising the question “why are they ubiquitous?” We’ll conclude with some similar points about many of the epidemic models used to examine the current pandemic.
 
-* (Poster \#25): Paulo Pirozelli, João F. N. B. Cortese. [The Beauty Everywhere: How Aesthetic Criteria Contribute to the Development of AI](https://openreview.net/forum?id=UPuDQRCyrtO)
 
-* (Poster \#26): Anthony L. Caterini, Gabriel Loaiza-Ganem. [Entropic Issues in Likelihood-Based OOD Detection](https://openreview.net/forum?id=mE7KhifcD9l)
 
-* (Poster \#27): David Rohde. [Causal Inference, is just Inference: A beautifully simple idea that not everyone accepts](https://openreview.net/forum?id=CohKbinev2)
+## Contributed Talks
 
-* (Poster \#28): Sahil Khose, Shruti Praveen Jain, V Manushree [A Studious Approach to Semi-Supervised Learning](https://openreview.net/forum?id=TC2V_Xk3fu8)
+###  Wouter Kool (8:30-8:45 EST)
 
-* (Poster \#29): Ezgi Korkmaz [Adversarial Training Blocks Generalization in Neural Policies](https://openreview.net/forum?id=fXGimmbtD9c)
+**Title**: [Unbiased Gradient Estimation with Balanced Assignments for Mixtures of Experts](https://openreview.net/forum?id=Hvfva7l1tcj)
 
-* (Poster \#30):  Larissa Triess, David Peter. [Semi-Local Convolutions for LiDAR Scan Processing](https://openreview.net/forum?id=rSGfLc2w4Z)
+**Abstract**: Training large-scale mixture of experts models efficiently on modern hardware requires assigning datapoints in a batch to different experts, each with a limited capacity. Recently proposed assignment procedures lack a probabilistic interpretation and use biased estimators for training. As an alternative, we propose two unbiased estimators based on principled stochastic assignment procedures: one that skips datapoints which exceed expert capacity, and one that samples perfectly balanced assignments using an extension of the Gumbel-Matching distribution [29]. Both estimators are unbiased, as they correct for the used sampling procedure. On a toy experiment, we find the `skip'-estimator is more effective than the balanced sampling one, and both are more robust in solving the task than biased alternatives.
 
-* (Poster \#31): Benjamin Bloem-Reddy. [Beauty in Machine Learning: Fluency and Leaps](https://openreview.net/forum?id=t_yk349a9Ec)
+### Francesco Negri (10:30-10:45 EST)
 
-* (Poster \#32):  Imant Daunhawer, Thomas M. Sutter, Kieran Chin-Cheong, Emanuele Palumbo, Julia E Vogt [On the Limitations of Multimodal VAEs](https://openreview.net/forum?id=ynt6uq-BjIi)
+**Title**: [Continual Learning with Memory Cascades](https://openreview.net/forum?id=E1xIZf0E7qr)
 
-* (Poster \#33):  Vedant Shah, Gautam Shroff. [Forecasting Market Prices using DL with Data Augmentation and Meta-learning: ARIMA still wins!](https://openreview.net/forum?id=udRAvWHIb2)
+**Abstract**: Continual learning poses an important challenge to machine learning models. Kirkpatrick et al. introduced a model that combats forgetting during continual learning by using a Bayesian prior to transfer knowledge between task switches. This approach showed promising results but the algorithm was given access to the time points when tasks were switched. Using a model of stochastic learning dynamics we show that this model is very closely related to the previously developed cascade model to combat catastrophic forgetting. This general formulation allows us to use the model also for online learning where no knowledge about task switching times is given to the network. Also it allows us to use deeper hierarchies of Bayesian priors. We evaluate this model on the permuted MNIST task. We demonstrate improved task performance during task switching, but find that online learning is still significantly worse when task switching times are unknown to the network.
 
-* (Poster \#35):  Benjamin Zhang, Tuhin Sahai, Youssef Marzouk. [Sampling via Controlled Stochastic Dynamical Systems](https://openreview.net/forum?id=dHruzYDH719)
+
+### Chelsea Murray (15:15-15:30 EST)
+
+**Title**: [Addressing Bias in Active Learning with Depth Uncertainty Networks... or Not](https://openreview.net/forum?id=gVi-oIwRIks)
+
+**Abstract** Farquhar et al. [2021] show that correcting for active learning bias with underparameterised models leads to improved downstream performance. For overparameterised models such as NNs, however, correction leads either to decreased or unchanged performance. They suggest that this is due to an “overfitting bias” which offsets the active learning bias. We show that depth uncertainty networks operate in a low overfitting regime, much like underparameterised models. They should therefore see an increase in performance with bias correction. Surprisingly, they do not. We propose that this negative result, as well as the results Farquhar et al. [2021], can be explained via the lens of the bias-variance decomposition of generalisation error.
+
+
+### [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/) (16:00-16:15 EST)
+
+**Title**: [Beauty in Machine Learning: Fluency and Leaps](https://openreview.net/forum?id=t_yk349a9Ec)
+
+**Abstract**: The extrapolative leaps from training to deployment are precisely where ML's best methods for system development succeed, and where most---and the most consequential---failures occur. I argue that the leap is where beauty can and does play a role. Beauty also serves to highlight some important aspects of the leap that are not specific to beauty. Based on this, and drawing on research on beauty from psychology, cognitive science, and philosophy of science, I articulate some fundamental problems and suggest directions for potential solutions. 
+
+
