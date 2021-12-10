@@ -5,7 +5,7 @@ title: Talks
 description:
 ---
 
-### Invited talks
+### Invited Talks
 
 #### [Robert C. Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/) (8:00-8:30 EST)
 
