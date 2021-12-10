@@ -63,15 +63,15 @@ We invite submissions from these sub-fields among others in the broader ML commu
   <table style="width:100%;border-bottom: 1px solid black;">
   <tr>
   <td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/2264591?v=4" height="175"></td>
-  <td style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cosma_Shalizi_2.jpg/275px-Cosma_Shalizi_2.jpg" height="175"></td>
+  <td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/20528078?v=4" height="175"></td>
     <td style="text-align:center"><img src="https://assets.pubpub.org/ecmq36io/51583152278875.jpg" height="175"></td>
 
 
 
   </tr>
   <tr>
-  <td style="text-align:center"><a href="http://elarosca.net/">Michaela Rosca</a> <br>DeepMind</td>
-   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU </td>
+  <td style="text-align:center"><a href="http://elarosca.net/">Mihaela Rosca</a> <br>DeepMind</td>
+   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Daniel McDonald</a> <br> British Columbia </td>
    <td style="text-align:center"><a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/">Robert Williamson</a> <br> Tübingen </td>
 
 

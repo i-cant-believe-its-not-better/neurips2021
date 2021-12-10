@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /accepted_papers/
-title: Accepted
-description: ICBINB@NeurIPS 2021
+title: Accepted Papers
+description:
 ---
+### Contributed talks (15min each)
 
 **INFO**: Posters in gathertown will follow the same numbering as here below.
 
