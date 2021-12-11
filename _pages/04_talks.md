@@ -40,9 +40,9 @@ description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should
 
 #### [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/) (15:30-16:00 EST)
 
-**Title**: TBD
+**Title**: I Can't Believe Latent Variable Models Are Not Better
 
-**Abstract**: Coming soon.
+**Abstract**: *Latent variable models hold the promise of extracting meaningful features in an unsupervised way, but have so far largely failed to deliver. On the other hand, contrastive-type methods, e.g., SimCLR and CLIP, have delivered. CLIP's representations give rise to impressive zero-shot performance on ImageNet and are now being used widely to generate beautiful artificial art. Why has CLIP succeeded where the long literature on unsupervised latent variable models struggled? In this talk, I will attempt to give a simple answer to this question.*
 
 
 #### [Daniel J. McDonald](https://dajmcdon.github.io/) (16:30-17:00 EST)
