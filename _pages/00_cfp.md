@@ -83,7 +83,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
 <table style="width:100%;border-bottom: 1px solid black;">
   <center>
   <tr>
-    <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/867463880582340608/b2CozYM-_400x400.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/1435988913609330696/CGLxfzXs_400x400.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://i2.wp.com/kasirzadeh.org/wp-content/uploads/2021/11/FullSizeRender.jpg?resize=300%2C252" height="175"></td>
   <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/05/javier.png" height="175"></td>
 
