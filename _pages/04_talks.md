@@ -21,9 +21,9 @@ description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should
 
 #### [Nyalleng Moorosi](https://twitter.com/nunuska?lang=en) (10:45-11:15 EST)
 
-**Title**: TBD
+**Title**: AI Continualism & the Becoming of the Past
 
-**Abstract**: *Coming soon*.
+**Abstract**: *This talk discusses the concept of AI continualism as it functions in the discipline of machine learning. We diagnose continualism to be a system that works under the authority of a given past and as of now is incapable of capturing revolutionary events. The objective of AI continualism, we claim,  is to uncritically reproduce the patterns of a given datafied past into the future. As a way to overcome this problem, we will offer a new understanding of the role of historical past and a concept of responsible interpretation that engages with ML artifacts. We claim that these two perspectives are enduring challenges that the ML community needs to address to ensure a just future of AI.*
 
 #### [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) (11:30-12:00 EST)
 
