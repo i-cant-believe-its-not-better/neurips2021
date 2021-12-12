@@ -26,7 +26,7 @@ Times are listed in Eastern Standard Time
 | Breakout Discussion | 14:15-14:45 |
 | Invited Talk - [Tina Eliassi-Rad](http://eliassi.org/): *The Why, How, and When of Representations for Complex Systems* |14:45-15:15 |
 | Contributed Talk - Chelsea Murray: *[Addressing Bias in Active Learning with Depth Uncertainty Networks... or Not](https://openreview.net/forum?id=gVi-oIwRIks)* |15:15-15:30 |
-| Invited Talk - [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/): *TBD* | 15:30-16:00 |
+| Invited Talk - [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/): *I Can't Believe Latent Variable Models Are Not Better* | 15:30-16:00 |
 | Contributed Talk - [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/): *[Beauty in Machine Learning: Fluency and Leaps](https://openreview.net/forum?id=t_yk349a9Ec)* | 16:00-16:15 |
 | Coffee Break | 16:15-16:30 |
 | Invited Talk - [Daniel J. McDonald](https://dajmcdon.github.io/): *Your model is beautiful, but does it predict?* | 16:30-17:00 |

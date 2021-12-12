@@ -21,9 +21,9 @@ description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should
 
 #### [Nyalleng Moorosi](https://twitter.com/nunuska?lang=en) (10:45-11:15 EST)
 
-**Title**: TBD
+**Title**: AI Continualism & the Becoming of the Past
 
-**Abstract**: *Coming soon*.
+**Abstract**: *This talk discusses the concept of AI continualism as it functions in the discipline of machine learning. We diagnose continualism to be a system that works under the authority of a given past and as of now is incapable of capturing revolutionary events. The objective of AI continualism, we claim,  is to uncritically reproduce the patterns of a given datafied past into the future. As a way to overcome this problem, we will offer a new understanding of the role of historical past and a concept of responsible interpretation that engages with ML artifacts. We claim that these two perspectives are enduring challenges that the ML community needs to address to ensure a just future of AI. The talk will be presented by Nyalleng Moorosi and his co-author Razvan Amironesei.*
 
 #### [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) (11:30-12:00 EST)
 
@@ -40,9 +40,9 @@ description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should
 
 #### [Chris Maddison](http://www.cs.toronto.edu/~cmaddis/) (15:30-16:00 EST)
 
-**Title**: TBD
+**Title**: I Can't Believe Latent Variable Models Are Not Better
 
-**Abstract**: Coming soon.
+**Abstract**: *Latent variable models hold the promise of extracting meaningful features in an unsupervised way, but have so far largely failed to deliver. On the other hand, contrastive-type methods, e.g., SimCLR and CLIP, have delivered. CLIP's representations give rise to impressive zero-shot performance on ImageNet and are now being used widely to generate beautiful artificial art. Why has CLIP succeeded where the long literature on unsupervised latent variable models struggled? In this talk, I will attempt to give a simple answer to this question.*
 
 
 #### [Daniel J. McDonald](https://dajmcdon.github.io/) (16:30-17:00 EST)
