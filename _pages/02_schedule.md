@@ -17,9 +17,9 @@ Times are listed in Eastern Standard Time
 | Invited Talk - [Mihaela Rosca](http://elarosca.net/): *A story of distributional learning with games* | 10:00-10:30 |
 | Contributed Talk - Francesco Negri: *[Continual Learning with Memory Cascades](https://openreview.net/forum?id=E1xIZf0E7qr)*   | 10:30-10:45 |
 | Invited Talk - [Nyalleng Moorosi](https://twitter.com/nunuska?lang=en): *AI Continualism & the Becoming of the Past* | 10:45-11:15 |
-| Spotlight Talks 1 | 11:15-11:30 | [Imant Daunhawer](https://openreview.net/forum?id=ynt6uq-BjIi), [Paulo Pirozelli](https://openreview.net/forum?id=UPuDQRCyrtO), [Ke Wang](https://openreview.net/forum?id=v2DmCzi1gfh), [Tristan Cinquin](https://openreview.net/forum?id=Gv41ucDhhlY), [Soufiane Hayou](https://openreview.net/forum?id=foFLxO0Yrhx)
+| Spotlight Talks 1 - [Imant Daunhawer](https://openreview.net/forum?id=ynt6uq-BjIi), [Paulo Pirozelli](https://openreview.net/forum?id=UPuDQRCyrtO), [Ke Wang](https://openreview.net/forum?id=v2DmCzi1gfh), [Tristan Cinquin](https://openreview.net/forum?id=Gv41ucDhhlY), [Soufiane Hayou](https://openreview.net/forum?id=foFLxO0Yrhx) | 11:15-11:30 |
 | Invited Talk - [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php): *Metareasoning is important but intractable* | 11:30-12:00 |
-| Spotlight Talks 2 | 12:00-12:15 | [Amélie Chatelain](https://openreview.net/forum?id=JCzF3p8-47S), [Nitya Kasturi](https://openreview.net/forum?id=mCyM2CWFZX5), [Cian Eastwood](https://openreview.net/forum?id=N5lxfjtUPOS), [Antoni Caterini](https://openreview.net/forum?id=mE7KhifcD9l), [Arno Blaas](https://openreview.net/forum?id=ZulCFqmwsF2)
+| Spotlight Talks 2 - [Amélie Chatelain](https://openreview.net/forum?id=JCzF3p8-47S), [Nitya Kasturi](https://openreview.net/forum?id=mCyM2CWFZX5), [Cian Eastwood](https://openreview.net/forum?id=N5lxfjtUPOS), [Antoni Caterini](https://openreview.net/forum?id=mE7KhifcD9l), [Arno Blaas](https://openreview.net/forum?id=ZulCFqmwsF2) | 12:00-12:15 |
 | Lunch Break | 12:15-13:00 |
 | Poster Session | 13:00-14:45 |
 | Breakout Discussion | 14:15-14:45 |
