@@ -85,7 +85,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
   <tr>
     <td style="text-align:center"><img src="https://faculty.utah.edu/bytes/image.hml?id=u0548623&fullsize=true" height="175"></td>
     <td style="text-align:center"><img src="https://i2.wp.com/kasirzadeh.org/wp-content/uploads/2021/11/FullSizeRender.jpg?resize=300%2C252" height="175"></td>
-  <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/05/javier.png" height="175"></td>
+  <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/634497700550062082/ZaIVRC0u_400x400.jpg" height="175"></td>
 
   </tr>
   <tr>
